@@ -6,8 +6,6 @@ Dispatcher creates a fully functional Updater executable for you to include with
 
 When the Updater is run on a user's PC, your software will automatically be patched to its latest version! The Updater can be run in a variety of ways, including to only pop-up when an update is available. Deploying powerful Updaters has never been this simple!
 
-Video Tutorial: [Make an Updater in under 5 Minutes!](docs/tutorial.html)
-
 Include an Updater with your software to keep it updated:
 
 
