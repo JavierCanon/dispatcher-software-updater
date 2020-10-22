@@ -1,12 +1,12 @@
 # Repository of the Original Open Source Puchisoft Dispatcher
 
-![image](http://www.puchisoft.com/Dispatcher/Updater.png)
+![image](docs/Updater.png)
 
 Dispatcher creates a fully functional Updater executable for you to include with your software. All you need is a website (HTTP, HTTPS, or FTP), and your users will be kept up to date. Dispatcher automatically generates binary patch data and uploads it to your website(s) whenever you release a new version.
 
 When the Updater is run on a user's PC, your software will automatically be patched to its latest version! The Updater can be run in a variety of ways, including to only pop-up when an update is available. Deploying powerful Updaters has never been this simple!
 
-Video Tutorial: [Make an Updater in under 5 Minutes!](http://www.puchisoft.com/Dispatcher/tutorial.htm)
+Video Tutorial: [Make an Updater in under 5 Minutes!](docs/tutorial.html)
 
 Include an Updater with your software to keep it updated:
 
@@ -75,11 +75,10 @@ If the Updater is unable to update any part of your software, your entire softwa
 
 ## Manual
 
-Original link: [Manual](http://puchisoft.com/Dispatcher/Manual/)
+Original link: [Manual](docs/index.html)
 
+## Autor
 
-## Original Download
-
-Original download link in 7zip: [Source](http://www.puchisoft.com/PuchisoftWebsite.7z)
+Puchisoft
 
 
